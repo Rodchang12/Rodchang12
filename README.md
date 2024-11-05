@@ -1,9 +1,8 @@
 - 👋 Hi, I’m @Rodchang12
-- 👀 I’m interested in JavaScript, Vue
-- 🌱 I’m currently learning Vue,React
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-- 😄 Pronouns: ...
+- 💻 I’m interested in HTML, CSS, JavaScript, Vue
+- 📜 I’m currently learning React, Python
+- 💞️I’m looking to collaborate on Front-end Developer 
+- 📫 a0942248868@gmail.com
 - ⚡ Fun fact: ...
 
 <!---
