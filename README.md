@@ -2,7 +2,7 @@
 - 💻 I’m interested in HTML, CSS, JavaScript, Vue
 - 📜 I’m currently learning React, Python
 - 💞️ I’m looking to collaborate on Front-end Developer 
-- 📫 rodchang12@gmail.com
+- 📫 rodchang1212@gmail.com
 - ⚡ Fun fact: ...
 
 <!---
