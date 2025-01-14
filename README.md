@@ -1,3 +1,5 @@
+![20250113_1429_Focused Code Simplicity_simple_compose_01jhf5mrx1fr6948pq73gst29t](https://github.com/user-attachments/assets/669a11f3-990e-41ac-90e3-c2cff3cfa326)
+
 - 👋 Hi, I’m @Rodchang12
 - 💻 I’m interested in HTML, CSS, JavaScript, Vue
 - 📜 I’m currently learning React, Python
