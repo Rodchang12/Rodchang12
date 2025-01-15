@@ -14,28 +14,17 @@ I specialize in web frontend development and UI design, with expertise in HTML, 
   <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
 </a> 
 
-## **💼 Projects**  
-<div>
-<a href="https://www.tripuzzle.fun" target="_blank">
-  <img src="https://img.shields.io/badge/TriPuzzle-D14836?style=for-the-badge&logo=webpage&logoColor=white">
-</a> 
-  
-<a href="https://github.com/fontend-team4/TriPuzzle" target="_blank">
-  <img src="https://img.shields.io/badge/TriPuzzle-%23000?style=for-the-badge&logo=github&logoColor=white">
-</a> 
- <p> 
-   An interactive travel planning platform with features like Google Maps integration, trip sharing, and friend collaboration.  
- </p>
- </div>
- 
----
-
 <!--<a href="5456" target="_blank">
   <img src="https://img.shields.io/badge/Linkedin-%230077B5.svg?style=for-the-badge&logo=Linkedin&logoColor=white">
 </a>  -->
 
+## 💬 My Blog Articles
+<a href="https://medium.com/@rodchang12" target="_blank">
+  <img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" />
+</a>
 
-## 🔧 Technical Skills  
+
+## 🔧Skills  
 ![Vue.js](https://img.shields.io/badge/vuejs-%2335495e.svg?style=for-the-badge&logo=vuedotjs&logoColor=%234FC08D)
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 ![HTML](https://img.shields.io/badge/html-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
@@ -49,10 +38,21 @@ I specialize in web frontend development and UI design, with expertise in HTML, 
 ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)
 ![Railway](https://img.shields.io/badge/railway-%23000.svg?style=for-the-badge&logo=railway&logoColor=white)
 
-## 💬 My Blog Articles
-<a href="https://medium.com/@rodchang12" target="_blank">
-  <img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" />
-</a>
+### **💼 Projects**  
+<div>
+<a href="https://www.tripuzzle.fun" target="_blank">
+  <img src="https://img.shields.io/badge/TriPuzzle-D14836?style=for-the-badge&logo=webpage&logoColor=white">
+</a> 
+  
+<a href="https://github.com/fontend-team4/TriPuzzle" target="_blank">
+  <img src="https://img.shields.io/badge/TriPuzzle-%23000?style=for-the-badge&logo=github&logoColor=white">
+</a> 
+ <p> 
+   An interactive travel planning platform with features like Google Maps integration, trip sharing, and friend collaboration.  
+ </p>
+ </div>
+
+
 
 ### 🌱 Current Learning 
 ![Nuxtjs](https://img.shields.io/badge/Nuxt-020420?style=for-the-badge&logo=nuxt&logoColor=#00DC82)
